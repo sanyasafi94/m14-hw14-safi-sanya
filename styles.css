@@ -9,3 +9,14 @@
     background-color: navy;
     color: white;
   }
+.img-self{
+    width: 250px;
+}
+
+.mt-3{
+    margin: $spacer; !important
+}
+
+.mx-auto {
+    width: 300px;
+}
