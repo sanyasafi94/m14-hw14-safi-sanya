@@ -1,0 +1,11 @@
+.navbar {
+    background-color: lightcoral;
+  }
+  .btn {
+    color: navy;
+    border-color: navy;
+  }
+  .btn:hover {
+    background-color: navy;
+    color: white;
+  }
